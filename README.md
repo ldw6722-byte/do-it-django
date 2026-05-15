@@ -1,1 +1,1 @@
-# do-it-django
+# do_it_django
